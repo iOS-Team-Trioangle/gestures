@@ -9,12 +9,14 @@
 /* Begin PBXBuildFile section */
 		1812B76027C4E20D00E83056 /* GuesturesTrioangle.h in Headers */ = {isa = PBXBuildFile; fileRef = 1812B75F27C4E20D00E83056 /* GuesturesTrioangle.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1812B76727C4E25200E83056 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1812B76627C4E25200E83056 /* Logger.swift */; };
+		182BB89E27CE20E80079D05D /* GuesturesTrioangle.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 182BB89D27CE20E80079D05D /* GuesturesTrioangle.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1812B75C27C4E20D00E83056 /* GuesturesTrioangle.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GuesturesTrioangle.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1812B75F27C4E20D00E83056 /* GuesturesTrioangle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GuesturesTrioangle.h; sourceTree = "<group>"; };
 		1812B76627C4E25200E83056 /* Logger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Logger.swift; sourceTree = "<group>"; };
+		182BB89D27CE20E80079D05D /* GuesturesTrioangle.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = GuesturesTrioangle.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +33,7 @@
 		1812B75227C4E20D00E83056 = {
 			isa = PBXGroup;
 			children = (
+				182BB89D27CE20E80079D05D /* GuesturesTrioangle.podspec */,
 				1812B75E27C4E20D00E83056 /* GuesturesTrioangle */,
 				1812B75D27C4E20D00E83056 /* Products */,
 			);
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				182BB89E27CE20E80079D05D /* GuesturesTrioangle.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
