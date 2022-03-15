@@ -14,6 +14,12 @@ class Logger : NSObject {
     func printerfuntion(content: String) {
         print(content)
     }
+    
+    public
+    func addFuntion(a:Int,b:Int) -> Int {
+        return a + b
+    }
+    
 }
 
 public
