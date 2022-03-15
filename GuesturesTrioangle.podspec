@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "GuesturesTrioangle"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "Finally, don't worry about the indent, CocoaPods strips it!
     Finally, don't worry about the indent, CocoaPods strips it!"
 
